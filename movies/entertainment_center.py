@@ -43,6 +43,7 @@ print(up_movie.storyline)
 
 movies = [gangs_of_new_york, deadpool, spirited_away, doctor_strange, grandmas_boy, up_movie]
 fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.valid_ratings)
 
 
                              
